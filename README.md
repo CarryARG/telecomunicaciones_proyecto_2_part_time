@@ -21,6 +21,8 @@ Desarrollar un dashboard interactivo para monitorear el desempeño del sector y 
     . Cantidad y tipo de conexiones segun el año
 4. Desarrollo del dashboard: Se creó un dashboard en Power BI para visualizar los KPIs y permitir un análisis interactivo de los datos.
 
+
+
 ## Recursos
 Datasets: [datos](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/tree/main/datos)
 
@@ -30,12 +32,12 @@ Notebook: [notebookEDA.ipynb]()
 
 
 
-### Resultados
+## Resultados
 El análisis reveló que la penetración de internet en Argentina ha aumentado significativamente en los últimos años, especialmente en las zonas metropolitanas como Buenos Aires, CABA, Cordoba y Santa Fe; en donde las mismas predominan todavia el uso de Cablemodem para acceder al servicio de internet. Sin embargo, hay que destacar que se identifica que existen provincias con otros tipos de tecnologías para obtener acceso a internet en vez del Cablemodem, como en San Luis que predomina el Wireless.
 Se identifica ademas un crecimiento con tendencia positiva al ingreso de dinero por cada trimestre/año de manera variable.
 También se puede notar una evolución de la velocidad de bajada por trimestre a lo largo de los años.
 
-### Elaboración del Dashboard
+## Elaboración del Dashboard
 El dashboard es una herramienta importante para el monitoreo del rendimiento de una empresa. En este caso, nos ayuda a identificar áreas de mejora y oportunidades de crecimiento, y así tomar decisiones informadas para brindar una mejor calidad de servicios y soluciones personalizadas a los clientes. 
 
 Para la visualización de los datos se utilizó Power BI. [Dashboard](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/blob/main/proyecto_telecomunicaciones.pbix)
