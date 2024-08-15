@@ -23,7 +23,9 @@ Desarrollar un dashboard interactivo para monitorear el desempeño del sector y 
 
 ## Recursos
 Datasets: [datos](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/tree/main/datos)
+
 Dashboard: [proyecto_telecomunicaciones.pbix](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/blob/main/proyecto_telecomunicaciones.pbix)
+
 Notebook: [notebookEDA.ipynb]()
 
 
