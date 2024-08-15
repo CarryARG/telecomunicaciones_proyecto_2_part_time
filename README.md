@@ -28,7 +28,7 @@ Datasets: [datos](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part
 
 Dashboard: [proyecto_telecomunicaciones.pbix](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/blob/main/proyecto_telecomunicaciones.pbix)
 
-Notebook: [notebookEDA.ipynb]()
+Notebook: [notebookEDA.ipynb](https://github.com/CarryARG/telecomunicaciones_proyecto_2_part_time/blob/main/notebookEDA.ipynb)
 
 
 
