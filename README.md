@@ -37,7 +37,7 @@ Notebook: [notebookEDA.ipynb](https://github.com/CarryARG/telecomunicaciones_pro
 
 
 ## Resultados
-El análisis reveló que la penetración de internet en Argentina ha aumentado significativamente en los últimos años, especialmente en las zonas metropolitanas como Buenos Aires, CABA, Cordoba y Santa Fe; en donde las mismas predominan todavia el uso de Cablemodem para acceder al servicio de internet. Sin embargo, hay que destacar que se identifica que existen provincias con otros tipos de tecnologías para obtener acceso a internet en vez del Cablemodem, como en San Luis que predomina el Wireless.
+El análisis reveló que la penetración de internet en Argentina ha aumentado significativamente en los últimos años, especialmente en las zonas metropolitanas como Buenos Aires, CABA y Santa Fe; en donde las mismas predominan todavia el uso de Cablemodem para acceder al servicio de internet, aunque se visualiza que esta compitiendo con una nueva tecnología que es la Fibra Optica como lo es en el caso de la provincia de Cordoba, donde predominaba el Cablemodem pero en estos ultimos años la Fibra Optica se presento como la competencia y como la nueva tecnología predominante en brindar servicio de internet. Tambien hay que destacar que se identifica que existen provincias con otros tipos de tecnologías para obtener acceso a internet en vez del Cablemodem, como en San Luis que predomina el Wireless.
 Se identifica ademas un crecimiento con tendencia positiva al ingreso de dinero por cada trimestre/año de manera variable.
 También se puede notar una evolución de la velocidad de bajada por trimestre a lo largo de los años.
 
