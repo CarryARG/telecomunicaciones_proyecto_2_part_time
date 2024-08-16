@@ -16,10 +16,12 @@ Desarrollar un dashboard interactivo para monitorear el desempeño del sector y 
 1. Recopilación de datos: Se obtuvieron datos relevantes del sitio web de [ENACOM](https://indicadores.enacom.gob.ar/datos-abiertos).
 2. Análisis exploratorio: Se realizó un EDA para comprender la estructura de los datos, identificar valores atípicos y explorar relaciones entre variables.
 3. Definición de KPIs: Se establecieron cuatro KPIs clave para medir el desempeño del sector:
-    . Penetración de internet por hogar
-    . Ingresos totales por año
-    . Cantidad y tipo de conexiones segun el año
-4. Desarrollo del dashboard: Se creó un dashboard en Power BI para visualizar los KPIs y permitir un análisis interactivo de los datos.
+
+   . Penetración de internet por hogar
+   . Ingresos totales por año
+   . Cantidad y tipo de conexiones segun el año
+  
+5. Desarrollo del dashboard: Se creó un dashboard en Power BI para visualizar los KPIs y permitir un análisis interactivo de los datos.
 
 
 
