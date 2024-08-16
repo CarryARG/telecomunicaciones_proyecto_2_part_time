@@ -18,7 +18,9 @@ Desarrollar un dashboard interactivo para monitorear el desempeño del sector y 
 3. Definición de KPIs: Se establecieron cuatro KPIs clave para medir el desempeño del sector:
 
    . Penetración de internet por hogar
+   
    . Ingresos totales por año
+   
    . Cantidad y tipo de conexiones segun el año
   
 5. Desarrollo del dashboard: Se creó un dashboard en Power BI para visualizar los KPIs y permitir un análisis interactivo de los datos.
